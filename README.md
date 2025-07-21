@@ -1,6 +1,6 @@
-# Primeiros Exercícios HTML
+# Primeiros Exercícios 
 
-Este repositório contém meus primeiros exercícios praticando HTML5, seguindo o curso do Professor Gustavo Guanabara (Curso em Vídeo).
+Este repositório contém meus primeiros exercícios, seguindo o curso do Professor Gustavo Guanabara (Curso em Vídeo).
 
 ## 📚 O que será feito
 
@@ -9,7 +9,7 @@ Este repositório contém meus primeiros exercícios praticando HTML5, seguindo 
  
 ## 🚀 Objetivo
 
-Iniciar meus estudos em desenvolvimento front-end, entendendo a base da construção de páginas web utilizando HTML5.
+Iniciar meus estudos em desenvolvimento front-end, entendendo a base da construção de páginas web utilizando HTML5, CSS3 e muitas outras tecnologias.
 
 ## 📅 Progresso
 
