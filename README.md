@@ -2,22 +2,18 @@
 
 Este repositório contém meus primeiros exercícios praticando HTML5, seguindo o curso do Professor Gustavo Guanabara (Curso em Vídeo).
 
-## 📚 O que foi feito
+## 📚 O que será feito
 
-- Criação da estrutura básica de um documento HTML
-- Uso das principais tags:
-  - `<!DOCTYPE html>` declaração do documento
-  - `<h1>` título de importância
-  - `<p>` parágrafos de texto
-  - `<hr>` linha horizontal para separação
-
+- Reposição e amostra de conteúdo aprendido com o professor Gustavo Guanabara do Curso em Video
+- Apresentação de Projetos criados através do Curso em Video
+ 
 ## 🚀 Objetivo
 
 Iniciar meus estudos em desenvolvimento front-end, entendendo a base da construção de páginas web utilizando HTML5.
 
 ## 📅 Progresso
 
-✅ Aula 1 concluída  
+✅ Um pouco de cada vez 
 🔜 Próximos passos: Aprender muito mais!
 
 ---
